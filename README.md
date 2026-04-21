@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BloodLife – Blood Donation Platform (MERN)
 
 A full-stack blood donation platform with **Donor** and **Receiver** dashboards, role-based auth, 90-day cooldown, privacy controls, and real-time notifications (Socket.io).
@@ -90,3 +91,7 @@ Runs on **http://localhost:3000** and proxies `/api` and `/socket.io` to the bac
 - **Colors:** Primary red `#DC2626`, white, light gray.  
 - **Layout:** Sidebar (YouTube-style) for both dashboards; landing navbar with BloodLife logo (left), Donor/Receiver registration and Sign in (right).  
 - **Responsive:** Tailwind breakpoints for mobile and desktop.
+=======
+# billo
+my first project
+>>>>>>> 4d2710abfa669c95c69270d4eccbc3669dcf77fa
